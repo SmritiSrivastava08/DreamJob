@@ -49,6 +49,6 @@
 			alert("SORRY!There was some error while updating the record!Please Try Again!");
 			</script>';
 		header("refresh:1;url=loginPage_Student.php");
-	}
+	
 
 ?>
